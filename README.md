@@ -6,6 +6,7 @@ I’m a results-driven DevOps Engineer with hands-on experience in automating, o
 
 
 🧠 About Me
+
 ☁️ Experienced in Microsoft Azure for deploying and managing cloud-based applications.
 ⚙️ Skilled in setting up CI/CD pipelines using Jenkins, GitHub Actions, and Azure DevOps.
 🐳 Hands-on with Docker and Kubernetes for containerization and orchestration.
@@ -15,6 +16,7 @@ I’m a results-driven DevOps Engineer with hands-on experience in automating, o
 
 
 🛠️ Tech Stack
+
 DevOps Tools: Jenkins • GitHub Actions • Azure DevOps • Terraform • Ansible
 Cloud Platforms: Microsoft Azure
 Containerization: Docker • Kubernetes
@@ -24,6 +26,7 @@ Scripting: PowerShell • Bash • YAML
 
 
 💬 Let’s Connect
+
 📧 Email: daravindraverma@gmail.com
 
 💼 LinkedIn: [linkedin.com/in/ravindra-verma](https://www.linkedin.com/in/ravindra-verma-8207b0159/)
